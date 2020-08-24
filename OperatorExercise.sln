@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorExercise", "OperatorExercise.csproj", "{696C34C6-2E05-40F7-BB70-0AA4021C8C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696C34C6-2E05-40F7-BB70-0AA4021C8C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696C34C6-2E05-40F7-BB70-0AA4021C8C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696C34C6-2E05-40F7-BB70-0AA4021C8C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696C34C6-2E05-40F7-BB70-0AA4021C8C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
